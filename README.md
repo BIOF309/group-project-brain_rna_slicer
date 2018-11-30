@@ -6,7 +6,6 @@
 
 https://mybinder.org/v2/gh/BIOF309/group-project-brain_rna_slicer/master
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BIOF309/group-project-brain_rna_slicer/blob/master/4.0%20Brain_RNA_slicer.ipynb/master)
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIOF309/group-project-brain_rna_slicer/blob/master/)
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BIOF309/group-project-brain_rna_slicer/blob/master/4.0%20Brain_RNA_slicer.ipynb/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BIOF309/group-project-brain_rna_slicer/master)
